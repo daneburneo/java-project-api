@@ -17,7 +17,7 @@ public class ProdutosResource {
         Produto produto1 = new Produto();
         produto1.setNome("Arroz");
         produto1.setPreco(5.0);
-        produto1.setCodigoDeBarras("shgd7rG7dts4rg6dr918dft1h9d4th");
+        produto1.setCodigoDeBarras("shgd7wrG7dts4rg6dr918dft1h9d4th");
 
         Produto produto2 = new Produto();
         produto2.setNome("Geladeira");
